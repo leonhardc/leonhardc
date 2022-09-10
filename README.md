@@ -1,9 +1,7 @@
 ### Olá! Eu sou o Leonardo Rodrigues! ✌️
 
-- 🔭 Atualmente não estou trabalhando, porém busco vagas como Dev.
-- 🌱 Estou estudando Python, Django e Data Science.
-- ⚡ Um fato legal: sou formando em Engenharia de Computação pela Universidade Federal do Ceará.
-
+- 🔭 Atualmente a procura de um primeiro trabalho como Dev;
+- 🌱 Estudando Python com Django, HTML, CSS e Javascript;
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardorcost/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/leonardo.rodriguesdacosta.3/)
@@ -15,9 +13,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonhardc&langs_count=8&layout=compact&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Técnologias que eu uso no meu dia a dia
-<div style="display: inline_block"><br>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" 
-    alt="html">
+<div style="display: inline_block">
+    <br>
     <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" 
     alt="python">
     <img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter" 
@@ -26,4 +23,7 @@
     alt="django">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
     alt="css">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" 
+    alt="html">
+    <br>
 </div>
