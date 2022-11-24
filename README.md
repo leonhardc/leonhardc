@@ -1,7 +1,11 @@
 ### Olá! Eu sou o Leonardo Rodrigues! ✌️
 
-- 🔭 Atualmente a procura de um primeiro trabalho como Dev;
-- 🌱 Estudando Python com Django, HTML, CSS e Javascript;
+- 🔭 Atualmente a procura de um primeiro Job;
+- 🌱 Atualmente estudando Desenvolvimento Web com:
+    - Python;
+    - Django;
+    - HTML;
+    - JavaScript.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardorcost/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/leonardo.rodriguesdacosta.3/)
