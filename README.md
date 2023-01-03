@@ -13,8 +13,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Leonard44259772)
 [![FreeCodeCamp](https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white)](https://www.freecodecamp.org/portuguese/fcc260a7665-87e9-4660-949a-145441b66916)
 
-![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leonhardc&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonhardc&langs_count=8&layout=compact&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leonhardc&show_icons=true&theme=github_dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonhardc&langs_count=8&layout=compact&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ## Técnologias que eu uso no meu dia a dia
 <div style="display: inline_block">
