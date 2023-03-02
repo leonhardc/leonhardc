@@ -63,8 +63,7 @@ Mas também sei um pouco de:
     <br>
 </div>
 
-## **Meus Stats**
+## **My Stats**
 
-![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leonhardc&show_icons=true&theme=github_dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonhardc&langs_count=8&layout=compact&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-      
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonhardc&langs_count=5&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonhardc&show_icons=true&theme=transparent)
