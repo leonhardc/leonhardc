@@ -1,11 +1,28 @@
-### Olá! Eu sou o Leonardo Rodrigues! ✌️
+# Olá, eu me chamo Leonardo! 😎
+##  Seja bem vindo! 
 
-- 🔭 Atualmente a procura de um primeiro Job;
-- 🌱 Atualmente estudando Desenvolvimento Web com:
-    - Python;
-    - Django;
-    - HTML;
-    - JavaScript.
+Olá pessoal, tudo bem? Como já disse antes eu me chamo Leonardo, atualmente sou graduando em Engenharia de Computação 🎓, pela Universidade Federal do Ceará e além da graduação sou DEV 🧑‍💻.
+
+Se vocês tirarem um pouco do seu tempo, poderão ver que muitos dos meus respositórios e projetos pessoais se tratam de estudo e desenvolvimento de pequenas aplicações voltadas para a Web 💻 e é ai que pretendo me estabelecer. 
+
+Atualmente desenvolvo com Python 🐍 como linguagem principal e Django como framework. Talvez não diferente de qualquer pessoa que tenta dominar alguma tecnologia pra web, quando me debrucei a estudar Django mais profundamente senti a necessidade de outros conhecimentos que pareciam comuns no contexto desse framwork, como HTML, CSS e JavaScript. E claro, ao brincar e mexer com HTML e CSS tive que aprender um pouco sobre algumas de suas bibliiotecas mais comuns para desenvolvimento Front-End, como Bootstrap, JQuery e até já mexi um pouco com React. 
+
+Então, em resumo, meus principais conhecimentos são:
+
+- ✅ Python 🐍;
+- ✅ Django;
+- ✅ JavaScript;
+- ✅ CSS3;
+- ✅ HTML5;
+
+Mas também sei um pouco de:
+
+- ✔️ React;
+- ✔️ Jquery;
+- ✔️ SASS;
+- ✔️ Bootstrap;
+
+Abaixo segue o link de algumas das minhas redes sociais, fique a vontade para chamar para uma conversa:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardorcost/)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/leonardo.rodriguesdacosta.3/)
@@ -16,18 +33,17 @@
 <!-- ![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leonhardc&show_icons=true&theme=github_dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonhardc&langs_count=8&layout=compact&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
-## Técnologias que eu uso no meu dia a dia
+## Técnologias que normalmente uso
 <div style="display: inline_block">
-    <br>
-    <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" 
-    alt="python">
-    <img src="https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter" 
-    alt="jupyter notebook">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" 
-    alt="django">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" 
-    alt="css">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" 
-    alt="html">
+    <br>    
+    &emsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/> 
+    &emsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50" height="50"/> 
+    &emsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+    &emsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>      
+    &emsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+    &emsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+    &emsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
     <br>
 </div>
+
+      
