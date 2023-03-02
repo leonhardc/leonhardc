@@ -16,7 +16,7 @@
 &emsp; &emsp; Atualmente desenvolvo com Python 🐍 como linguagem principal e Django como framework. Talvez não diferente de qualquer pessoa que tenta dominar alguma tecnologia pra web, quando me debrucei a estudar Django mais profundamente senti a necessidade de outros conhecimentos que pareciam comuns no contexto desse framwork, como HTML, CSS e JavaScript. E claro, ao brincar e mexer com HTML e CSS tive que aprender um pouco sobre algumas de suas bibliiotecas mais comuns para desenvolvimento Front-End, como Bootstrap, JQuery e até já mexi um pouco com React. 
 <br><br>
 Então, em resumo, meus principais conhecimentos são:
-
+<br>
 - ✅ Python 🐍;
 - ✅ Django;
 - ✅ JavaScript;
