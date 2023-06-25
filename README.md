@@ -2,9 +2,9 @@
 ##  **Seja bem vindo!** 
 <br>
 &emsp; &emsp; Olá pessoal, tudo bem? Como já disse antes eu me chamo Leonardo, atualmente sou graduando em Engenharia de Computação 🎓, pela Universidade Federal do Ceará e além da graduação estou a procura de um primeiro emprego como DEV 🧑‍💻.
-
+<br>
 &emsp; &emsp; Se vocês tirarem um pouco do seu tempo, poderão ver que muitos dos meus respositórios e projetos pessoais se tratam de estudo e desenvolvimento de pequenas aplicações voltadas para a Web 💻 e é ai que pretendo me estabelecer. 
-
+<br>
 &emsp; &emsp; Atualmente desenvolvo com Python 🐍 como linguagem principal e Django como framework. Talvez não diferente de qualquer pessoa que tenta dominar alguma tecnologia pra web, quando me debrucei a estudar Django mais profundamente senti a necessidade de outros conhecimentos que pareciam comuns no contexto desse framwork, como HTML, CSS e JavaScript. E claro, ao brincar e mexer com HTML e CSS tive que aprender um pouco sobre algumas de suas bibliiotecas mais comuns para desenvolvimento Front-End, como Bootstrap, JQuery e até já mexi um pouco com React. 
 <br><br>
 
