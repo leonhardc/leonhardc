@@ -44,14 +44,6 @@ Mas também sei um pouco de:
     <br>
 </div>
 
-## **My Stats**
-
-<div display="flex" align="center">
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonhardc&show_icons=true&theme=transparent)
-
-</div>
-
 ## **Minhas Redes Sociais**
 
 <br>
