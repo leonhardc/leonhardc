@@ -1,6 +1,6 @@
-# **Olá, eu me chamo Leonardo!** 😎
+# **Olá, meu nome é Leonardo!** 😎
 
-Olá, seja bem vindo!
+Seja bem vindo!
 
 Muito do meu tempo como desenvolvedor está dedicado aos cursos, miniprojetos e projetos que tenho do Github. Então sinta-se a vontade para explorar tudo com carinho e curiosidade.
 Se alguma coisa lhe interessar me envia uma mensagem, faz um fork pra chamar de seu ou me manda uma PR.
