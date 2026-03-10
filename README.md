@@ -2,8 +2,8 @@
 
 Seja bem vindo!
 
-Muito do meu tempo como desenvolvedor está dedicado aos cursos, miniprojetos e projetos que tenho do Github. Então sinta-se a vontade para explorar tudo com carinho e curiosidade.
-Se alguma coisa lhe interessar me envia uma mensagem, faz um fork pra chamar de seu ou me manda uma PR.
+Muito do meu tempo como desenvolvedor está dedicado aos cursos, miniprojetos e projetos que tenho no Github. Então sinta-se a vontade para explorar tudo com carinho e curiosidade.
+Se alguma coisa lhe interessar me envie uma mensagem, faça um fork pra chamar de seu, ou me manda uma Pull Request.
 
 Desde já muito obrigado por dedicar um pouco do seu tempo para conhecer um pouco do meu.
 
